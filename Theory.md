@@ -2,7 +2,7 @@
 
 The Waterfall model is a traditional Software Development Life Cycle (SDLC) model that follows a sequential approach. While simple, it has several limitations.
 
-##  Key Drawbacks
+##  Key Drawbacks of Waterfall Model
 1. Rigid and inflexible structure  
 2. Difficult to handle changing requirements  
 3. Testing happens very late  
